@@ -11,7 +11,7 @@ function HeroSection() {
       className="container w-full"
     >
       <div className="textstructure py-[10vh]">
-        {["We Create", "Eye Opening", "Presentations"].map((item, index) => (
+        {["WE HELP", "BRANDS", "Communicate"].map((item, index) => (
           <div key={index} className="masker">
             <div className="w-fit flex items-center overflow-hidden">
               {index === 1 && (
